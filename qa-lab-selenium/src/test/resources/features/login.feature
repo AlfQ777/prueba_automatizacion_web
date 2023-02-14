@@ -2,8 +2,8 @@
 @testfeature
 Característica: Login
   Yo, como usuario
-  Quiero, tener una opción para iniciar sesión
-  Para ver todos los items
+  Quiero, tener una opción para iniciar sesión y añadir items
+  Para ver todos los items de inventario y carro de compras
 
   @test
   Escenario: Iniciar sesión
